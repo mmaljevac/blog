@@ -1,4 +1,4 @@
-# Blog
+# Blog Prototype
 
 A simple blog prototype created following The Net Ninja's React course.
 
